@@ -1,3 +1,5 @@
 ref/.env
 ref/players.json
 .DS_Store
+creds/*
+__pycache__
